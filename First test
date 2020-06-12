@@ -1,4 +1,0 @@
-#This notebook is used for Capstone Project
-import numpy as np
-import pandas as pd
-print("Hello Capstone Project Course!")
